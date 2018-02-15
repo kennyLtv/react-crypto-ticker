@@ -1,0 +1,21 @@
+.app-header {
+  background-color: #222;
+  height: 60px;
+  top: 0;
+  position: fixed;
+  color: white;
+  text-align: left;
+  width: 100%;
+}
+
+.app-title {
+  font-size: 1.5em;
+}
+
+.content{
+  margin-top: 70px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
